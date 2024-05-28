@@ -1,5 +1,5 @@
-const Category = require('./Category');
-const Product = require('./Product');
+const Category = require('../models/Category');
+const Product = require('../models/Product');
 const Tag = require('./Tag');
 const ProductTag = require('./ProductTag');
 
