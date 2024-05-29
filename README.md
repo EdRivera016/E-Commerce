@@ -43,6 +43,7 @@ The challenge was to build a robust backend for an E-Commerce application that a
 `https://github.com/EdRivera016/E-Commerce`
 
 ## Screen Recording
+`https://drive.google.com/file/d/1_J5SwqFoi7R_vXMSo_vZvXKDJ3sFo4PJ/view?usp=sharing`
 
 ## Technologies Used
 - Node.js
